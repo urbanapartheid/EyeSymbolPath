@@ -1,0 +1,14 @@
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\bin\Debug\EyeballSymbol.exe.config
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\bin\Debug\EyeballSymbol.exe
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\bin\Debug\EyeballSymbol.pdb
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\EyeballSymbol.csprojResolveAssemblyReference.cache
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\MainWindow.g.cs
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\App.g.cs
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\EyeballSymbol_MarkupCompile.cache
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\EyeballSymbol_MarkupCompile.lref
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\MainWindow.baml
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\EyeballSymbol.g.resources
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\EyeballSymbol.Properties.Resources.resources
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\EyeballSymbol.csproj.GenerateResource.Cache
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\EyeballSymbol.exe
+C:\Users\RenewedVision\Documents\Visual Studio 2015\Projects\EyeballSymbol\EyeballSymbol\obj\Debug\EyeballSymbol.pdb
