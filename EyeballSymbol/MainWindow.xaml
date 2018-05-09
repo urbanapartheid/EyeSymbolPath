@@ -8,28 +8,31 @@
         Title="MainWindow" Height="350" Width="525">
 
     <Grid>
-        <Path Stroke="BurlyWood"
-              StrokeThickness="5"
+        <Path Stroke="#995800"
+              StrokeThickness="1"
+              Fill="#CCAA86"
               Stretch="Uniform">
             <Path.Data>
                 <GeometryGroup>
                     <EllipseGeometry Center="5 5"
-                                     RadiusX="1.3"
-                                     RadiusY="1.3" />
+                                     RadiusX="1"
+                                     RadiusY="1" />
                     <PathGeometry>
                         <PathGeometry.Figures>
                             <PathFigureCollection>
                                 <PathFigure StartPoint="2 5"
+                                            IsFilled="False"
                                             IsClosed="False">
-                                    <ArcSegment Point="8 4.99"
+                                    <ArcSegment Point="8 5"
                                                 SweepDirection="Clockwise"
-                                                Size="3.5 3.5" />
+                                                Size="4 4" />
                                 </PathFigure>
-                                <PathFigure StartPoint="2 4.97"
+                                <PathFigure StartPoint="2 5"
+                                            IsFilled="False"
                                             IsClosed="False">
-                                    <ArcSegment Point="8 4.96"
+                                    <ArcSegment Point="8 5"
                                                 SweepDirection="Counterclockwise"
-                                                Size="3.5 3.5" />
+                                                Size="4 4" />
                                 </PathFigure>
                             </PathFigureCollection>
                         </PathGeometry.Figures>
